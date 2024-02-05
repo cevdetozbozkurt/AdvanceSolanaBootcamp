@@ -1,3 +1,3 @@
 # Advance Solana
 
-->[Week_1](https://github.com/cevdetozbozkurt/AdvanceSolanaBootcamp/tree/week_1)
+Week-1 HomeWork | [Week_1](https://github.com/cevdetozbozkurt/AdvanceSolanaBootcamp/tree/week_1)
